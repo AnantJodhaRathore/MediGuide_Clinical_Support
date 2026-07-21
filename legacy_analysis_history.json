@@ -1,0 +1,387 @@
+[
+  {
+    "timestamp": "2025-03-13 17:39:44",
+    "symptoms": [
+      "Loss Of Appetite",
+      "Headache",
+      "Vomiting",
+      "Depression"
+    ],
+    "predicted_disease": "Paralysis (brain hemorrhage)",
+    "analysis": {
+      "medicines": "Acetaminophen for headache relief, Metoclopramide or Ondansetron for vomiting, and antidepressants prescribed by a healthcare professional for depression",
+      "precautions": "Avoid heavy lifting or any strenuous activity, limit exposure to loud noises, and monitor blood pressure regularly",
+      "advice": "Seek immediate medical attention if symptoms worsen, especially signs of increased intracranial pressure such as worsening headache or change in level of consciousness"
+    },
+    "chat": [
+      [
+        "You",
+        "will i survive ?"
+      ],
+      [
+        "AI",
+        "1. I am an AI and cannot diagnose or predict survival rates.\n2. If you are experiencing the symptoms mentioned, it is crucial to seek immediate medical attention from a healthcare professional for proper diagnosis and treatment.\n3. Following their advice and taking prescribed medications as directed will improve your chances of recovery.\n4. Make sure to stay hydrated and rest adequately while awaiting medical help."
+      ],
+      [
+        "You",
+        "i do gym and heavy weight is it an problem "
+      ],
+      [
+        "AI",
+        "1. Continue your regular gym routine if you feel up to it, but adjust the intensity according to how you feel each day.\n2. If vomiting occurs after exercise, avoid strenuous activity immediately before or after workouts.\n3. Stay hydrated by drinking plenty of water throughout the day, especially before and after exercise.\n4. Eat small, nutritious meals throughout the day to help manage your appetite.\n5. If you experience worsening symptoms or feel unusually tired during exercise, consult a healthcare professional for advice."
+      ]
+    ]
+  },
+  {
+    "timestamp": "2025-03-13 18:03:41",
+    "symptoms": [
+      "Chest Pain",
+      "Unsteadiness",
+      "Anxiety"
+    ],
+    "predicted_disease": "(vertigo) Paroymsal  Positional Vertigo",
+    "analysis": {
+      "medicines": [
+        "Betahistine, Meclizine"
+      ],
+      "precautions": [
+        "Avoid driving or operating machinery if symptoms worsen, Limit salt and caffeine intake, Maintain a regular sleep schedule"
+      ],
+      "advice": [
+        "Perform the Epley maneuver as directed by your doctor, Use a support system for balance, Consult an audiologist for hearing tests"
+      ]
+    },
+    "chat": []
+  },
+  {
+    "timestamp": "2025-03-14 02:26:41",
+    "symptoms": [
+      "Cough",
+      "Continuous Sneezing",
+      "Throat Irritation",
+      "Headache",
+      "Redness Of Eyes"
+    ],
+    "predicted_disease": "Common Cold",
+    "analysis": {
+      "medicines": "Ibuprofen, Acetaminophen, Decongestants, Expectorants",
+      "precautions": "Avoid close contact with sick individuals, Frequent hand washing, Avoid touching eyes, nose, and mouth",
+      "advice": "Stay hydrated, Rest as much as possible, Use a humidifier"
+    },
+    "chat": [
+      [
+        "You",
+        "Can you Advice some exercises to get fast relifes ."
+      ],
+      [
+        "AI",
+        "1. Steam Inhalation: Boil water, add a few drops of eucalyptus oil, lean over the steam and cover your head with a towel. Breathe deeply for 5-10 minutes to help relieve congestion.\n\n2. Hydration: Drink plenty of fluids such as water, herbal tea (chamomile or peppermint), or clear broths to keep hydrated and soothe a sore throat.\n\n3. Saline Nasal Spray: Use a saline nasal spray to help unblock your nose and reduce irritation.\n\n4. Warm Compress: Apply a warm compress to the forehead and eyes to relieve headache and redness.\n\n5. Humidifier: Use a humidifier in your room to add moisture to the air, which can help soothe a dry throat and cough.\n\n6. Throat lozenges or cough drops: These can provide temporary relief for sore throats and coughs."
+      ]
+    ]
+  },
+  {
+    "timestamp": "2025-04-10 16:02:35",
+    "symptoms": [
+      "Itching",
+      "Skin Rash",
+      "Continuous Sneezing",
+      "Chills"
+    ],
+    "predicted_disease": "Allergy",
+    "analysis": {
+      "medicines": [
+        "Loratadine (Claritin), Cetirizine (Zyrtec), Levocetirizine (Xyzal)"
+      ],
+      "precautions": [
+        "Avoid exposure to allergens, Keep the environment clean and dust-free, Wear protective clothing if necessary"
+      ],
+      "advice": [
+        "Consult a doctor for persisting symptoms or worsening condition, Maintain proper hygiene, Drink plenty of fluids"
+      ]
+    },
+    "chat": []
+  },
+  {
+    "timestamp": "2025-04-10 16:05:27",
+    "symptoms": [
+      "Joint Pain",
+      "Nodal Skin Eruptions",
+      "Continuous Sneezing"
+    ],
+    "predicted_disease": "Fungal infection",
+    "analysis": {
+      "medicines": "[Fluconazole, Itraconazole]",
+      "precautions": "[Avoid direct sunlight on affected skin areas, Maintain good hygiene, Consult doctor before using any over-the-counter creams or ointments]",
+      "advice": [
+        "Regularly monitor skin condition, Keep a close watch for spread of infection to other parts of the body"
+      ]
+    },
+    "chat": []
+  },
+  {
+    "timestamp": "2025-04-10 16:08:38",
+    "symptoms": [
+      "Shivering",
+      "Restlessness",
+      "Continuous Sneezing"
+    ],
+    "predicted_disease": "Allergy",
+    "analysis": {
+      "medicines": "Loratadine (Claritin) or Cetirizine (Zyrtec)",
+      "precautions": "Avoid exposure to allergens, use non-drowsy formulations during the day if possible",
+      "advice": "Consult a doctor if symptoms persist or worsen"
+    },
+    "chat": [
+      [
+        "You",
+        "Guide me how to take dosage wrt to time ."
+      ],
+      [
+        "AI",
+        "1. For continuous sneezing, consider an antihistamine such as loratadine (Claritin). Take one tablet by mouth once daily, preferably in the morning.\n\n2. If shivering and restlessness are due to discomfort or fever, an analgesic-antipyretic like ibuprofen (Advil, Motrin) can be helpful. Take 200-400mg every 6-8 hours as needed for pain relief and fever reduction.\n\n3. If your symptoms persist or worsen, please consult a healthcare professional for further evaluation and appropriate management."
+      ]
+    ]
+  },
+  {
+    "timestamp": "2025-04-14 18:59:58",
+    "symptoms": [
+      "Itching",
+      "Skin Rash",
+      "Sweating"
+    ],
+    "predicted_disease": "Fungal infection",
+    "analysis": {
+      "medicines": [
+        "Fluconazole, Terbinafine, Clotrimazole"
+      ],
+      "precautions": [
+        "Avoid contact with others until improvement",
+        "Inform your doctor about any other medications you're currently taking"
+      ],
+      "advice": [
+        "Apply cool compresses to the affected area",
+        "Maintain good hygiene and keep the affected area clean"
+      ]
+    },
+    "chat": [
+      [
+        "You",
+        "Should i bath with cold or hot water ?"
+      ],
+      [
+        "AI",
+        "1. You can bathe with water that is comfortable for you. There is no definitive evidence to suggest that cold or hot water will specifically help alleviate the symptoms you mentioned.\n2. If itching or rash discomfort increases, consider using lukewarm water and mild, fragrance-free soap to avoid irritating your skin further.\n3. Avoid excessive bathing as it may dry out your skin, leading to increased itchiness. Try to keep baths short and sweet, around 5-10 minutes maximum."
+      ]
+    ]
+  },
+  {
+    "timestamp": "2025-04-21 15:00:59",
+    "symptoms": [
+      "Continuous Sneezing",
+      "Cough"
+    ],
+    "predicted_disease": "Allergy",
+    "analysis": {
+      "medicines": [
+        "Loratadine (Claritin), Cetirizine (Zyrtec), Fexofenadine (Allegra)"
+      ],
+      "precautions": [
+        "Avoid exposure to allergens, Keep hydrated, Maintain good hand hygiene"
+      ],
+      "advice": [
+        "Consult a doctor if symptoms persist or worsen, Use a humidifier in the room"
+      ]
+    },
+    "chat": [
+      [
+        "You",
+        "So what can i do "
+      ],
+      [
+        "AI",
+        "1. Take the prescribed medications as directed by your doctor.\n2. Rest and drink plenty of fluids to help relieve symptoms and aid recovery.\n3. Use a tissue when you sneeze and dispose of it immediately, and wash your hands afterwards to prevent spreading germs.\n4. Avoid close contact with others to minimize the spread of infection.\n5. If your symptoms persist or worsen, consult your doctor for further evaluation and treatment."
+      ]
+    ]
+  },
+  {
+    "timestamp": "2025-04-21 21:21:14",
+    "symptoms": [
+      "Cough",
+      "Mild Fever",
+      "Diarrhoea"
+    ],
+    "predicted_disease": "hepatitis A",
+    "analysis": {
+      "medicines": "Loratadine, Paracetamol and Diaforest (Imodium) as needed",
+      "precautions": "Avoid alcohol consumption, maintain hydration, practice good hand hygiene",
+      "advice": "Consult a doctor if symptoms worsen or persist for more than 7 days"
+    },
+    "chat": [
+      [
+        "You",
+        "what foods i should not consume?"
+      ],
+      [
+        "AI",
+        "1. Avoid spicy foods as they may aggravate cough and digestive issues.\n2. Limit dairy products if experiencing diarrhea.\n3. Avoid greasy, fatty foods as they can worsen diarrhea and fever symptoms.\n4. Stay away from caffeine and alcohol as they can dehydrate you and interfere with medication.\n5. Try to eat bland, easy-to-digest foods like rice, applesauce, bananas, or toast if experiencing stomach upset."
+      ]
+    ]
+  },
+  {
+    "timestamp": "2025-04-21 22:12:47",
+    "symptoms": [
+      "Anxiety",
+      "High Fever",
+      "Sweating",
+      "Breathlessness",
+      "Pain Behind The Eyes"
+    ],
+    "severity": {
+      "Anxiety": 5,
+      "High Fever": 5,
+      "Sweating": 5,
+      "Breathlessness": 5,
+      "Pain Behind The Eyes": 5
+    },
+    "predicted_disease": "Heart attack",
+    "analysis": {
+      "medicines": [
+        "Aspirin (if prescribed by a doctor), Nitroglycerin, Morphine sulfate"
+      ],
+      "precautions": [
+        "Immediate medical attention is required as these symptoms can be indicative of a heart attack",
+        "Avoid any strenuous activity and try to remain calm"
+      ],
+      "advice": [
+        "Call emergency services or seek immediate medical help if you suspect a heart attack"
+      ]
+    },
+    "chat": []
+  },
+  {
+    "timestamp": "2025-04-21 22:15:56",
+    "symptoms": [
+      "High Fever",
+      "Headache",
+      "Pain Behind The Eyes",
+      "Joint Pain"
+    ],
+    "severity": {
+      "High Fever": 9,
+      "Headache": 6,
+      "Pain Behind The Eyes": 3,
+      "Joint Pain": 8
+    },
+    "predicted_disease": "Dengue",
+    "analysis": {
+      "medicines": "Ibuprofen, Paracetamol, Dengue specific antiviral medication if prescribed by a doctor",
+      "precautions": "Rest, Hydrate well, Avoid heat exposure, Protect yourself from mosquito bites",
+      "advice": "Monitor symptoms closely, Seek immediate medical attention if condition worsens"
+    },
+    "chat": [
+      [
+        "You",
+        "i had dengue beforehand so my body is immuned to it"
+      ],
+      [
+        "AI",
+        " While previous infection with Dengue can provide temporary immunity against the same strain (known as heterotypic immunity), it does not make you immune to future infections by other Dengue strains or completely protect you from Dengue symptoms. If your current symptoms persist, it's important to consult a healthcare professional for proper evaluation and treatment."
+      ]
+    ]
+  },
+  {
+    "timestamp": "2025-04-21 22:45:09",
+    "symptoms": [
+      "Headache",
+      "Joint Pain"
+    ],
+    "severity": {
+      "Headache": 7,
+      "Joint Pain": 8
+    },
+    "predicted_disease": "Paralysis (brain hemorrhage)",
+    "analysis": {
+      "medicines": "Acetaminophen for headache and non-steroidal anti-inflammatory drugs (NSAIDs) like Ibuprofen for joint pain. Dexamethasone or Mannitol may be prescribed if it's a brain hemorrhage.",
+      "precautions": "Immediate medical attention required. Avoid strenuous activity, lie flat and rest, maintain normal blood pressure, and avoid aspirin unless directed by a doctor.",
+      "advice": "Contact emergency services immediately, share your condition with healthcare professionals, and follow their instructions closely."
+    },
+    "chat": [
+      [
+        "You",
+        "but, i am not paralysed. so it the disease wrong? once again can you check?"
+      ],
+      [
+        "AI",
+        " I apologize for any confusion. Based on the symptoms you provided (Headache and Joint Pain), Paralysis was incorrectly predicted as a possible condition due to auto-completion error. It's essential to note that paralysis is a loss or impairment of motor function in a part or all of the body, which wasn't suggested by the symptoms you listed.\n\nFor the symptoms you described, possible conditions could be Migraine (for headache) and Arthritis (for joint pain). I recommend you consult with a healthcare professional for an accurate diagnosis. In the meantime, Acetaminophen can help with your headache, while NSAIDs like Ibuprofen may provide relief for joint pain. However, it's crucial to follow any specific advice from your doctor if they are available for further evaluation."
+      ]
+    ]
+  },
+  {
+    "timestamp": "2025-04-21 22:52:05",
+    "symptoms": [
+      "Itching",
+      "Skin Rash",
+      "Continuous Sneezing"
+    ],
+    "severity": {
+      "Itching": 5,
+      "Skin Rash": 5,
+      "Continuous Sneezing": 5
+    },
+    "predicted_disease": "Fungal infection",
+    "analysis": {
+      "medicines": [
+        "Clotrimazole cream, Ketoconazole shampoo or oral antifungals prescribed by a doctor depending on the severity"
+      ],
+      "precautions": [
+        "Avoid scratching the affected area, wash clothes and bedding in hot water, maintain good personal hygiene"
+      ],
+      "advice": [
+        "Consult a doctor for proper diagnosis and treatment, do not self-medicate"
+      ]
+    },
+    "chat": []
+  },
+  {
+    "timestamp": "2025-04-22 20:02:50",
+    "symptoms": [
+      "Cough",
+      "Continuous Sneezing",
+      "Mild Fever",
+      "Shivering",
+      "Headache"
+    ],
+    "severity": {
+      "Cough": 7,
+      "Continuous Sneezing": 3,
+      "Mild Fever": 8,
+      "Shivering": 5,
+      "Headache": 6
+    },
+    "predicted_disease": "Allergy",
+    "analysis": {
+      "medicines": [
+        "Loratadine (Claritin) for allergy symptoms",
+        "Acetaminophen (Tylenol) for fever and headache"
+      ],
+      "precautions": [
+        "Avoid contact with allergens if possible",
+        "Monitor body temperature regularly"
+      ],
+      "advice": [
+        "Stay hydrated",
+        "Rest as much as possible"
+      ]
+    },
+    "chat": [
+      [
+        "You",
+        "you said it is allergy. but could you specify more about it. like which allergy it is. what i should do. what foods i should not consume"
+      ],
+      [
+        "AI",
+        " It's difficult to pinpoint the exact type of allergy based solely on your symptoms, as they are common to various allergies and other conditions. However, since I mentioned allergy initially, it might be helpful to focus on avoiding known allergens for a while to see if your symptoms improve.\n\nCommon allergy triggers include pollen (outdoor), dust mites or pet dander (indoor), and certain foods like dairy, eggs, soy, wheat, shellfish, and nuts. It's essential to determine any specific food allergies through an allergy test or elimination diet.\n\nRegarding medications, Loratadine (Claritin) is used for relieving symptoms of hay fever or hives, and Acetaminophen (Tylenol) can help reduce fever and alleviate headache discomfort. I recommend consulting a healthcare professional to confirm the diagnosis and receive personalized advice on managing your allergies effectively."
+      ]
+    ]
+  }
+]
