@@ -560,14 +560,6 @@ Open a pull request with:
 
 Do not introduce diagnosis claims, treatment plans, medication recommendations, or emergency guidance without qualified clinical review.
 
-## License
-
-No software license is currently included in this repository. Add an appropriate `LICENSE` file before distributing or accepting external contributions.
-
----
-
-<div align="center">
-
 Built to demonstrate how machine learning, deterministic triage, local data storage, and careful safety boundaries can work together in a modern health-support application.
 
 ### 👨‍💻 Anant Jodha
